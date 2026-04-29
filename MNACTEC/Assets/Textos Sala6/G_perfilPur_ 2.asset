@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: G_perfilPur_ 2
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: pur_a
+  paragraf1: "Perfil anal\xEDtic (A)"
+  paragraf2: "El teu patr\xF3 es basa en l\u2019an\xE0lisi, la planificaci\xF3 i
+    el control cognitiu. Proceses la informaci\xF3 de manera reflexiva i tendeixes
+    a detectar patrons, incoher\xE8ncies i estructures ocultes en l\u2019entorn.
+    La decisi\xF3 sorgeix del pensament m\xE9s que de la impulsivitat."

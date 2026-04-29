@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: C_ordre_ 2
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: ordre_2
+  paragraf1: Estructura flexible
+  paragraf2: "Mostres una bona capacitat per combinar ordre i adaptaci\xF3. Pots
+    organitzar la informaci\xF3 de manera estructurada, per\xF2 sense necessitat
+    de rigidesa, ajustant-te amb facilitat a diferents contextos. Aquesta flexibilitat
+    et permet mantenir l\u2019equilibri entre ordre i caos."

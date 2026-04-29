@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: F_entorn_ 1
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: entorn_1
+  paragraf1: "Interpretaci\xF3 estructurada"
+  paragraf2: "Tendeixes a interpretar l\u2019entorn de manera ordenada i coherent.
+    Busques patrons clars i relacions l\xF2giques entre els est\xEDmuls, construint
+    una lectura estable i ben definida de la realitat. Aquesta manera d\u2019interpretar
+    afavoreix la comprensi\xF3 sistem\xE0tica del que t\u2019envolta."

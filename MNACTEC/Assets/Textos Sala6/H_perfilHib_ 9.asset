@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: H_perfilHib_ 9
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: hib_i_s
+  paragraf1: Perfil impulsiu-sensible (IS)
+  paragraf2: "Actues de manera espont\xE0nia, guiat per la intu\xEFci\xF3 i les emocions.
+    Respones r\xE0pid als est\xEDmuls, per\xF2 amb una gran capacitat per captar
+    matisos i significats profunds. Aquesta combinaci\xF3 et fa obert i expressiu,
+    tot i que pot portar-te a decisions canviants o poc reflexionades."

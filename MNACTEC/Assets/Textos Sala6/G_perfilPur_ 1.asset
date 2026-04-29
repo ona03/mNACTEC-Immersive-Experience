@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: G_perfilPur_ 1
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: pur_h
+  paragraf1: "Perfil harm\xF2nic (H)"
+  paragraf2: "El teu perfil mostra una orientaci\xF3 cap a l\u2019equilibri entre
+    control i sensibilitat. Busques entorns estables, coherents i emocionalment segurs.
+    La teva manera de decidir combina intu\xEFci\xF3 i estructura, prioritzant sempre
+    la sensaci\xF3 d\u2019harmonia global."

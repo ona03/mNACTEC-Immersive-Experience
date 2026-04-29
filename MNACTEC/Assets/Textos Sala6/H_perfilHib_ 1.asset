@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: H_perfilHib_ 1
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: hib_h_a
+  paragraf1: "Perfil harm\xF2nic-anal\xEDtic (HA)"
+  paragraf2: "El teu perfil es construeix a partir d\u2019un equilibri entre la recerca
+    d\u2019estabilitat i una forta capacitat d\u2019an\xE0lisi. Valores els entorns
+    previsibles, per\xF2 no renuncies a comprendre\u2019ls en profunditat. La teva
+    manera de decidir combina coher\xE8ncia emocional i reflexi\xF3 estructurada,
+    buscant solucions que siguin alhora estables i l\xF2giques."

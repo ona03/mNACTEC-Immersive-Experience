@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: H_perfilHib_ 2
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: hib_h_i
+  paragraf1: "Perfil harm\xF2nic-impulsiu (HI)"
+  paragraf2: "El teu perfil reflecteix una conviv\xE8ncia entre la necessitat d\u2019equilibri
+    i una tend\xE8ncia a l\u2019acci\xF3 espont\xE0nia. Pots moure\u2019t entre la
+    recerca de calma i moments d\u2019exploraci\xF3 impulsiva, adaptant-te segons
+    el context. Aquesta dualitat genera un comportament flexible, tot i que amb possibles
+    variacions en la consist\xE8ncia de les decisions."

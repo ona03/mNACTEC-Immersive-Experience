@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: E_aspiracions_ 2
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: aspiracions_2
+  paragraf1: "Connexi\xF3 i empatia"
+  paragraf2: "Mostres una forta orientaci\xF3 cap a la connexi\xF3 amb els altres.
+    Les teves aspiracions estan vinculades a entendre millor les persones i reduir
+    les barreres comunicatives. Valors com l\u2019empatia, la comprensi\xF3 i la
+    proximitat emocional tenen un paper central en la teva manera de projectar-te
+    cap al futur."

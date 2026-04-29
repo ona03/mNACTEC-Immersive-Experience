@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: H_perfilHib_ 8
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: hib_a_i_s
+  paragraf1: "Perfil anal\xEDtic-impulsiu-sensible (AIS)"
+  paragraf2: "El teu perfil es caracteritza per una combinaci\xF3 de reflexi\xF3,
+    intu\xEFci\xF3 i acci\xF3. Pots analitzar en profunditat, per\xF2 tamb\xE9 reaccionar
+    de manera immediata davant est\xEDmuls o emocions. Aquesta configuraci\xF3 genera
+    una experi\xE8ncia del m\xF3n intensa i canviant, on conviuen diferents formes
+    de processar i respondre a l\u2019entorn."

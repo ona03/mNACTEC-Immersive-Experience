@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16ad84dd47375494db853f64ee2d42a3, type: 3}
+  m_Name: H_perfilHib_ 5
+  m_EditorClassIdentifier: Assembly-CSharp::textSala6
+  idCombinacio: hib_a_s
+  paragraf1: "Perfil anal\xEDtic-sensible (AS)"
+  paragraf2: "El teu perfil es defineix per la coexist\xE8ncia entre an\xE0lisi racional
+    i sensibilitat emocional. Processos la informaci\xF3 amb profunditat, per\xF2
+    tamb\xE9 tens en compte els matisos perceptius i simb\xF2lics. Aquesta combinaci\xF3
+    genera una interpretaci\xF3 complexa de l\u2019entorn, on la l\xF2gica i la intu\xEFci\xF3
+    es complementen constantment."
