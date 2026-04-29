@@ -5107,17 +5107,12 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1015737509201676118, guid: f61d41b497abda244806db18cc898ab1, type: 3}
   m_PrefabInstance: {fileID: 176008095}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 176008098}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
---- !u!1 &176008098 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8285944000097341625, guid: f61d41b497abda244806db18cc898ab1, type: 3}
-  m_PrefabInstance: {fileID: 176008095}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &177103106 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4572783783184152, guid: f61b2bee68d853c4ab7baf6062cda8d4, type: 3}
@@ -22220,7 +22215,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1015737509201676118, guid: f61d41b497abda244806db18cc898ab1, type: 3}
   m_PrefabInstance: {fileID: 1433398549}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1433398550}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -28354,17 +28349,12 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1015737509201676118, guid: f61d41b497abda244806db18cc898ab1, type: 3}
   m_PrefabInstance: {fileID: 963227189}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 963227192}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
---- !u!1 &963227192 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8285944000097341625, guid: f61d41b497abda244806db18cc898ab1, type: 3}
-  m_PrefabInstance: {fileID: 963227189}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &971233747 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 68889524301061772, guid: b3af47e05d6eb164e9aa721c0e0167a6, type: 3}
@@ -28753,7 +28743,6 @@ GameObject:
   - component: {fileID: 982265209}
   - component: {fileID: 982265208}
   - component: {fileID: 982265207}
-  - component: {fileID: 982265212}
   m_Layer: 5
   m_Name: "Prefer\xE8ncia 2"
   m_TagString: Untagged
@@ -28859,19 +28848,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI_ImageController
   imageContainer: {fileID: 963227191}
   objecteTrigger: {fileID: 369902967}
---- !u!114 &982265212
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 982265205}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6dcf020142b30a49a327779b1a88900, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LockView_Movement
-  objecteTrigger: {fileID: 963227192}
 --- !u!1 &989024520 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2105157298031899602, guid: 7b365d73b1160204081e4055e456668c, type: 3}
@@ -37004,17 +36980,12 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1015737509201676118, guid: f61d41b497abda244806db18cc898ab1, type: 3}
   m_PrefabInstance: {fileID: 1227967406}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1227967409}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
---- !u!1 &1227967409 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8285944000097341625, guid: f61d41b497abda244806db18cc898ab1, type: 3}
-  m_PrefabInstance: {fileID: 1227967406}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1230137510 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -6871286659512521461, guid: af2ddb23c5c0bc04ba1944a011695496, type: 3}
@@ -40590,7 +40561,6 @@ GameObject:
   - component: {fileID: 1366972293}
   - component: {fileID: 1366972292}
   - component: {fileID: 1366972291}
-  - component: {fileID: 1366972296}
   m_Layer: 5
   m_Name: "Prefer\xE8ncia 4"
   m_TagString: Untagged
@@ -40696,19 +40666,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI_ImageController
   imageContainer: {fileID: 1783601208}
   objecteTrigger: {fileID: 1857903126}
---- !u!114 &1366972296
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1366972289}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6dcf020142b30a49a327779b1a88900, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LockView_Movement
-  objecteTrigger: {fileID: 1783601209}
 --- !u!1 &1368011661 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -4875767361975312049, guid: af2ddb23c5c0bc04ba1944a011695496, type: 3}
@@ -43125,11 +43082,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f61d41b497abda244806db18cc898ab1, type: 3}
---- !u!1 &1433398550 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8285944000097341625, guid: f61d41b497abda244806db18cc898ab1, type: 3}
-  m_PrefabInstance: {fileID: 1433398549}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1433564330
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48631,7 +48583,6 @@ GameObject:
   - component: {fileID: 1645356010}
   - component: {fileID: 1645356009}
   - component: {fileID: 1645356008}
-  - component: {fileID: 1645356013}
   m_Layer: 5
   m_Name: "Prefer\xE8ncia 1"
   m_TagString: Untagged
@@ -48737,19 +48688,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI_ImageController
   imageContainer: {fileID: 785713386}
   objecteTrigger: {fileID: 3289268424884138363}
---- !u!114 &1645356013
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1645356006}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6dcf020142b30a49a327779b1a88900, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LockView_Movement
-  objecteTrigger: {fileID: 1433398550}
 --- !u!1001 &1647555434
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50388,7 +50326,6 @@ GameObject:
   - component: {fileID: 1715667581}
   - component: {fileID: 1715667580}
   - component: {fileID: 1715667579}
-  - component: {fileID: 1715667584}
   m_Layer: 5
   m_Name: "Prefer\xE8ncia 5"
   m_TagString: Untagged
@@ -50494,19 +50431,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI_ImageController
   imageContainer: {fileID: 1227967408}
   objecteTrigger: {fileID: 906018824}
---- !u!114 &1715667584
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1715667577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6dcf020142b30a49a327779b1a88900, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LockView_Movement
-  objecteTrigger: {fileID: 1227967409}
 --- !u!1 &1718095411 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 42210099012106664, guid: af2ddb23c5c0bc04ba1944a011695496, type: 3}
@@ -51083,7 +51007,6 @@ GameObject:
   - component: {fileID: 1737760350}
   - component: {fileID: 1737760349}
   - component: {fileID: 1737760348}
-  - component: {fileID: 1737760353}
   m_Layer: 5
   m_Name: "Prefer\xE8ncia 3"
   m_TagString: Untagged
@@ -51189,19 +51112,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UI_ImageController
   imageContainer: {fileID: 176008097}
   objecteTrigger: {fileID: 2008748206}
---- !u!114 &1737760353
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1737760346}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e6dcf020142b30a49a327779b1a88900, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LockView_Movement
-  objecteTrigger: {fileID: 176008098}
 --- !u!1001 &1738634725
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52268,17 +52178,12 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1015737509201676118, guid: f61d41b497abda244806db18cc898ab1, type: 3}
   m_PrefabInstance: {fileID: 1783601206}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1783601209}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
---- !u!1 &1783601209 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8285944000097341625, guid: f61d41b497abda244806db18cc898ab1, type: 3}
-  m_PrefabInstance: {fileID: 1783601206}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1785772594
 PrefabInstance:
   m_ObjectHideFlags: 0
